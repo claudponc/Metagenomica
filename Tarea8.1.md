@@ -10,11 +10,11 @@ output: html_document
 
 Se realizó un barplot de la abundancia de OTUS según hospedero (Quercus/Juniperus) y por tratamiento (Nativo/Mixto)
 
-![barplot](barplot.png)
+![barplot](data/barplot.png)
 
 Se realizó un análisis de Anova por hospedero y tratamiento. 
 
-![boxplotanova](boxplotanova.png)
+![boxplotanova](data/boxplotanova.png)
 
 
 ### Resultados two-way Anova
